@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>EXPERIENCE</title>
+</head>
+<body background="im 9.jpg">
+<br>
+<br><center>
+<a href="about me.html"><img src="AM 1.png"></a>
+<a href="family.html"><img src="AM 3.png"></a>
+<a href="hobby.html"><img src="AM 2.png"></a>
+<a href="education.html"><img src=" AM 4.png"></a>
+<a href="experience.html"><img src="AM 5.png"></a>
+<a href="gallery.html"><img src="AM 6.png"></a>
+<br>
+<h1>EXPERIENCE</h1>
+<h>"Experience give a lot of knowledge"</h>
+<br>
+<br>
+<img src="AM 7.png">
+<br>
+<br>
+<img src="pic 9.jpg" width="40%" height="40%">
+<p>In 2018, I become a babysitter for my aunt's granddaughter.</p>
+<p> I've been doing this job for around 3 month while waiting for my spm result. When I take care of her, I was 1 years old and her name is Ayra Nur Sofia.</p>
+<p>I remember, It was very hard to handle children especially during sleeping time. Sometimes she do not want to sleep but I need to forced  her to avoid from get less sleep.</p>
+<p> I take care of her at my parent house only because they house is very close with me. Her mom is working as a nurse, so every weekend only, she will take her child.</p>
+<p>Alhamdulillah, during my work, I got RM300/ month. The salary I will share with my family. The experience make me realise, it hard to get a money.</p>
+<br>
+<img src="AM 8.png">
+<br>
+<br>
+<img src="pic 10.jpg" width="40%" height="40%">
+<img src="pic 11.jpg"width="40%" height="40%">
+<p><font color="brown">Secondly, In 2020, I was work at the Mak Roha factory. My job is doing the roll of batang buruk snack.</p>
+<p>I'm doing this job when the semester breaks around 3 month. Every month I will get RM 300- 400 based on how much I get when doing the batang buruk roll.</p>
+<p> For this experience, I know about traditional food and know how to make it. It was a very wonderful experience.</p>
+<br>
+<img src="AM 9.png">
+<br>
+<br>
+<img src="pic 8.jpg" width="50%" height="60%">
+<p>Lastly, my experience when practical at Tunku Tun Aminah Library in february 2021.</p>
+<p> This practical take 6 weeks to go through and learn about how to handle the library and know the function of each department.</p>
+<p>The experience I get will be a knowledge for me in future if I become a librarian. Insha Allah.</p>
+</body>
+</html>

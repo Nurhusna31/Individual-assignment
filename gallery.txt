@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>GALLERY</title>
+</head>
+<body background="im 4.jpg">
+<br>
+<br><center>
+<a href="about me.html"><img src="AM 1.png"></a>
+<a href="family.html"><img src="AM 3.png"></a>
+<a href="hobby.html"><img src="AM 2.png"></a>
+<a href="education.html"><img src=" AM 4.png"></a>
+<a href="experience.html"><img src="AM 5.png"></a>
+<a href="gallery.html"><img src="AM 6.png"></a>
+<br>
+<h1>Husna's Gallery</h1>
+<p>&#128147;Every moments together always keep in my mind &#128147;</p>
+<br>
+<align="right"><img src="gr 1.jpg" width="20%" height="30%">
+<img src="gr 2.jpg" width="20%" height="30%">
+<img src="gr 3.jpg" width="20%" height="30%">
+<img src="gr 4.jpg" width="20%" height="30%">
+<table border="1">
+<br>
+<br>
+<td bgcolor="#ffffff"><p>Mira and me moments</p></td>
+</table>
+<br>
+<img src="gr 5.jpg" width="20%" height="30%">
+<img src="gr 6.jpg" width="20%" height="30%">
+<img src="gr 7.jpg" width="20%" height="30%">
+<img src="gr 8.jpg" width="20%" height="30%">
+<table border="1">
+<br>
+<br>
+<td bgcolor="#ffccff"><p>With my bestfriend Muna</p></td>
+</table>
+<br>
+<img src="gr 9.jpg" width="20%" height="30%">
+<img src="gr 10.jpg" width="20%" height="30%">
+<img src="gr 11.jpg" width="20%" height="30%">
+<img src="gr 13.jpg" width="20%" height="30%">
+<table border="1">
+<br>
+<br>
+<td bgcolor="#b3ffff"><p>At Pantai Merdeka with my coursemates</p></td>
+</table>
+<br>
+<img src="gr 14.jpg" width="20%" height="30%">
+<img src="gr 15.jpg" width="20%" height="30%">
+<img src="gr 16.jpg" width="20%" height="30%">
+<img src="gr 17.jpg" width="20%" height="30%">
+<img src="gr 18.jpg" width="20%" height="30%">
+<table border="1">
+<br>
+<br>
+<td bgcolor="#ff99cc"><p>This is the moments with my ex classmates 5 Bukhari</p></td>
+</table>
+<br>
+<img src="gr 19.jpg" width="20%" height="30%">
+<img src="gr 20.jpg" width="20%" height="30%">
+<img src="gr 21.jpg" width="20%" height="30%">
+<img src="gr 22.jpg" width="20%" height="30%">
+<img src="gr 23.jpg" width="20%" height="30%">
+<img src="gr 24.jpg" width="20%" height="30%">
+<img src="gr 25.jpg" width="20%" height="30%">
+<table border="1">
+<br>
+<br>
+<td bgcolor="#ffcc66"><p>Birthday Celebration for My Lovely Family</p></td>
+</table>
+</body>
+</html>
